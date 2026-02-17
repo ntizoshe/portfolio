@@ -1,0 +1,60 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    transition: background 0.3s, color 0.3s;
+}
+
+/* Dark mode styles */
+body.dark-theme {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.project-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Perfect Circular Image */
+.profile-img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #007bff;
+    padding: 5px;
+}
+
+/* Smooth Scrolling for Navigation */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Section Spacing */
+section {
+    padding: 100px 0;
+}
+
+/* Hover effects for cards */
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.nav-link {
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.contact-card {
+    background-color: #fff;
+}
