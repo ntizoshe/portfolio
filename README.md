@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website! This project showcases my skills, featured projects, and provides a way for potential collaborators or employers to get in touch with me.
 
-**Live Demo:** [https://your-username.github.io](https://your-username.github.io)
+**Live Demo:** [https://ntizoshe.github.io](https://ntizoshe.github.io)
 
 ---
 
