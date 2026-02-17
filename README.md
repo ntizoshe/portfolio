@@ -1,2 +1,38 @@
-# portfolio
-# 🚀 Professional Portfolio  Welcome to the repository for my personal portfolio website! This project showcases my skills, featured projects, and provides a way for potential collaborators or employers to get in touch with me.  **Live Demo:** [https://your-username.github.io](https://your-username.github.io)  ---  ## 🛠️ Built With  This portfolio was built using a modern frontend stack to ensure speed, responsiveness, and a professional aesthetic:  * **HTML5** - Semantic structure for better SEO and accessibility. * **CSS3** - Custom styling with a focus on modern typography and spacing. * **Bootstrap 5** - Responsive grid system and UI components. * **JavaScript (ES6+)** - Dynamic interactivity and form handling. * **Formspree** - Serverless contact form integration.  ---  ## ✨ Key Features  - **Responsive Design:** Optimized for all screen sizes, from mobile phones to ultra-wide monitors. - **Modern UI:** Clean, minimalist design with a professional circular profile hero section. - **Project Gallery:** A curated list of my best work with technical tags. - **Functional Contact Form:** Directly sends messages to my inbox without a backend server. - **Smooth Navigation:** One-page scrolling experience for easy browsing.  ---  ## 📂 Project Structure  ```text ├── index.html      # Main structural file ├── style.css       # Custom styles and Bootstrap overrides ├── script.js       # Form handling and UI logic ├── profile.jpg     # Professional headshot └── README.md       # Project documentation
+# 🚀 Professional Portfolio
+
+Welcome to the repository for my personal portfolio website! This project showcases my skills, featured projects, and provides a way for potential collaborators or employers to get in touch with me.
+
+**Live Demo:** [https://your-username.github.io](https://your-username.github.io)
+
+---
+
+## 🛠️ Built With
+
+This portfolio was built using a modern frontend stack to ensure speed, responsiveness, and a professional aesthetic:
+
+* **HTML5** - Semantic structure for better SEO and accessibility.
+* **CSS3** - Custom styling with a focus on modern typography and spacing.
+* **Bootstrap 5** - Responsive grid system and UI components.
+* **JavaScript (ES6+)** - Dynamic interactivity and form handling.
+* **Formspree** - Serverless contact form integration.
+
+---
+
+## ✨ Key Features
+
+- **Responsive Design:** Optimized for all screen sizes, from mobile phones to ultra-wide monitors.
+- **Modern UI:** Clean, minimalist design with a professional circular profile hero section.
+- **Project Gallery:** A curated list of my best work with technical tags.
+- **Functional Contact Form:** Directly sends messages to my inbox without a backend server.
+- **Smooth Navigation:** One-page scrolling experience for easy browsing.
+
+---
+
+## 📂 Project Structure
+
+```text
+├── index.html      # Main structural file
+├── style.css       # Custom styles and Bootstrap overrides
+├── script.js       # Form handling and UI logic
+├── profile.jpg     # Professional headshot
+└── README.md       # Project documentation
